@@ -1,5 +1,10 @@
 # git_tutorial
-jgooagaoutr
-gaotuah
+# 変更前
+-----------
+hogehoge
+-----------
 
-jato
+# 変更後
+-----------
+fugafuga
+-----------
